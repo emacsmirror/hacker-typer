@@ -1,3 +1,4 @@
+#+options: num:nil
 * emacs-hacker-typer
 [[https://melpa.org/#/hacker-typer][file:https://melpa.org/packages/hacker-typer-badge.svg]]
 [[https://stable.melpa.org/#/hacker-typer][file:https://stable.melpa.org/packages/hacker-typer-badge.svg]]
@@ -15,7 +16,7 @@ A customizable implementation of [[http://hackertyper.com][hackertyper.com]] in 
    hackerman~ for single-window.
 
  - If you'd like to see hackerman when invoking ~M-x hacker-typer~, set
-   ~hacker-typer-show-hackerman~ to ~t~. See more [[#customization][customization options]] below.
+   ~hacker-typer-show-hackerman~ to ~t~. See more [[*customization][customization options]] below.
 
  - You can quit with your ~keyboard-quit~ binding or ~M-x hacker-typer-quit~.
 
