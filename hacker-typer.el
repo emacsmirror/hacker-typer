@@ -2,8 +2,8 @@
 
 ;; Copyright (C) 2017 Diego A. Mundo
 ;; Author: Diego A. Mundo <diegoamundo@gmail.com>
-;; URL: http://github.com/therockmandolinist/emacs-hacker-typer
-;; Git-Repository: git://github.com/therockmandolinist/emacs-hacker-typer.git
+;; URL: https://sr.ht/~dieggsy/emacs-hacker-typer
+;; Git-Repository: https://git.sr.ht/~dieggsy/emacs-hacker-typer.git
 ;; Created: 2016-01-20
 ;; Version: 1.0.6
 ;; Keywords: hacker typer multimedia games
